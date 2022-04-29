@@ -3,5 +3,10 @@
 🌱 Sempre estou pronto para novos aprendizados e novos desafios.
 💡 Amo aprender!!!
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSerres)](https://github.com/HenriqueSerres/github-readme-stats)
+<a href="https://github.com/HenriqueSerres/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSerres&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/HenriqueSerres/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueSerres&repo=convoychat" />
+</a>
 </div>
