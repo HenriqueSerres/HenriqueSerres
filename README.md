@@ -3,5 +3,5 @@
 🌱 Sempre estou pronto para novos aprendizados e novos desafios.
 💡 Amo aprender!!!
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSerres)](https://github.com/HenriqueSerres/github-readme-stats)
 </div>
