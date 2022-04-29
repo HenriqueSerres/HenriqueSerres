@@ -1,4 +1,4 @@
-# Oi! Bem vindos aos repositório de Henrique Serres!!!
+# Oi! Bem vindos aos repositórios de Henrique Serres!!!
 - 🎯 Desenvolvedor de Software Web Full Stack.
 - 🌱 Sempre estou pronto para novos aprendizados e novos desafios.
 - 💡 Amo aprender!!!
