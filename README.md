@@ -1,3 +1,4 @@
+
 # Oi! Bem vindos aos repositórios de Henrique Serres!!!
 - 🎯 Desenvolvedor de Software Web Full Stack.
 - 🌱 Sempre estou pronto para novos aprendizados e novos desafios.
@@ -29,4 +30,8 @@
   <img align="center" alt="Rique-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />     
    </div>
           
-  ##
+  ## Contatos:
+  
+### henriqueserres@gmail.com
+[Meu Linkedin](https://www.linkedin.com/in/henrique-serres/).
+
